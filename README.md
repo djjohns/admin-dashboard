@@ -1,5 +1,12 @@
 # Getting Started with Create React App
 
+```
+npm i @mui/material @emotion/react @emotion/styled @mui/x-data-grid @mui/icons-material react-router-dom@6 react-pro-sidebar@0.7.1 formik yup @fullcalender/core @fullcalender/daygrid @fullcalender/timegrid @fullcalender/list @nivo/core @nivo/pie @nivo/line @nivo/bar @nivo/geo
+```
+
+
+npm install @fullcalendar/core @fullcalendar/daygrid \@fullcalendar/timegrid @fullcalendar/list
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
